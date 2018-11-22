@@ -2,7 +2,7 @@ import subprocess
 from random import randint
 
 
-message='hi hi'
+message='Temp = 30'
 key='[KEY]'
 channel = 'sensor_test'
 timeout = 1000
