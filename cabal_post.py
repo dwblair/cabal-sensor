@@ -4,7 +4,7 @@ from random import randint
 
 message='Temp = 30'
 key='[KEY]'
-channel = 'sensor_test'
+channel = 'sensor_data'
 timeout = 1000
 
 while True:
