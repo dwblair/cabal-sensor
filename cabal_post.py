@@ -3,7 +3,7 @@ from random import randint
 
 
 message='Temp = 30'
-key='[KEY]'
+key='[KEY]' 
 channel = 'sensor_data'
 timeout = 1000
 
